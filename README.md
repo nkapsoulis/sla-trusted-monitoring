@@ -24,7 +24,7 @@ SLA test case implimentation video-demo is attached and can be found inside the 
  5. Using client terminal to interact with the network and perform transaction.
 
 Note: This tutorial has been tested on Ubuntu 20.04 LTS.
-
+SLA Demo: https://www.youtube.com/watch?v=THYoI56AMVQ
 ## Prerequisites:
 
 You are expected to download the sample Hyperledger Fabric from the Github and install prerequisite files as instructed in the following pages: 
