@@ -12,7 +12,7 @@ type SmartContract struct {
 	contractapi.Contract
 }
 
-// Asset describes basic details of org1 and org2 for SLA
+// Asset describes basic details of org1 and org2 for SLA.
 //Insert struct field in alphabetic order => to achieve determinism across languages
 // golang keeps the order when marshal to json but doesn't order automatically
 type Asset struct {
