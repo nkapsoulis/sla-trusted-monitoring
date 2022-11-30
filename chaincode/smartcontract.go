@@ -134,7 +134,7 @@ func (s *SmartContract) AssetExists(ctx contractapi.TransactionContextInterface,
 	return assetJSON != nil, nil
 }
 
-// ComputeParametes calculate the eligibility for the refund if any
+// ComputeParametes calculate the eligibility for the refund if any.
 
 func (s *SmartContract) ComputeParameters(ctx contractapi.TransactionContextInterface) (string, error) {
 	var id1 string = "asset1"
