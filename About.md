@@ -1,5 +1,4 @@
 # Description 
-
 ## Why Service Level Agreements (SLAs)?
 
 Service Level Agreements or SLAs define the way that providers, e.g. Public Cloud Infrastructure As A Service providers, are offering their services to their clientele. An SLA is defined in a form of a contract with specific metric values that must be met by the provider or else an SLA Violation of its contractual terms occurs. Although it is straightforward to compute SLA metric values when needed, there is no holistic system that fairly calculates the respective metrics under a well-defined or pre-agreed mechanism; each provider defines their own methods of metrics computation without transparency to their clientele. The objective of this project is to address the existing gray areas of the SLA monitoring process by bringing (i.) transparency to the SLA monitoring for both the client and the provider and (ii.) privacy to the SLA computations through the result framework.
